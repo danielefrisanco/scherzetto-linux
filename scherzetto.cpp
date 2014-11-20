@@ -60,7 +60,7 @@ int i=0;
 	/*
 x=atoi(argv[1]);
 y=atoi(argv[2]);*/
-
+////////////////////////////////////////////////// AGGIUNGERE SUONI E CLICK DEL MOUSE
     Display *display = XOpenDisplay(0);
 	
  Window root = DefaultRootWindow(display);
